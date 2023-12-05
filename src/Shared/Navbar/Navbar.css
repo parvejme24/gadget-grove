@@ -1,0 +1,10 @@
+.active {
+  background: transparent !important;
+  text-decoration: underline !important;
+  color: rgb(41, 41, 247) !important;
+}
+
+a {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+}
